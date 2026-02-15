@@ -4,7 +4,7 @@ Baseline Implementation using CTGAN:
 - Implemented CTGAN using SDV in Google Colab
 - Generated 500 synthetic records
 - Compared synthetic vs real data distributions
-- 
+   
 Observed Limitations:
 - Identifier columns produced unrealistic values
 - Numerical distributions showed deviations
